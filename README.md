@@ -1,5 +1,5 @@
 # Projeto Pousada-Secreta
-Página estática dividida em setorescom links para setores da prória página.
+Página estática dividida em setores com links para setores da prória página.
 
 ## Funcionalidades
 * Links para os setores SOBRE, ROTAS e QUARTOS
