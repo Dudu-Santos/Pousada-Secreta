@@ -2,6 +2,8 @@
 Página estática para divulgação da POUSADA SECRETA
 
 ## Funcionalidades
+* Ícone ENDEREÇO direciona para o GOOGLE MAPS
+* Ícone CALENDÁRIO direciona para o BOOKING.COM
 
 ## Tecnologias Utilizadas
 * HTML
