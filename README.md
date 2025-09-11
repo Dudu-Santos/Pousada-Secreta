@@ -1,7 +1,8 @@
 # Projeto Pousada-Secreta
-Página estática para divulgação da POUSADA SECRETA
+Página estática dividida em setorescom links para setores da prória página.
 
 ## Funcionalidades
+* Links para os setores SOBRE, ROTAS e QUARTOS
 * Ícone ENDEREÇO localizado no rodapé abre nova aba GOOGLE MAPS no navegador
 * Ícone CALENDÁRIO localizado no rodapé abre nova aba BOOKING.COM no navegador
 
