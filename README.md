@@ -2,8 +2,8 @@
 Página estática para divulgação da POUSADA SECRETA
 
 ## Funcionalidades
-* Ícone ENDEREÇO direciona para o GOOGLE MAPS
-* Ícone CALENDÁRIO direciona para o BOOKING.COM
+* Ícone ENDEREÇO abre nova aba GOOGLE MAPS no navegador
+* Ícone CALENDÁRIO abre nova aba BOOKING.COM no navegador
 
 ## Tecnologias Utilizadas
 * HTML
